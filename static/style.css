@@ -1,3 +1,9 @@
-body {
+codebody {
     font-family: Helvetica;
+}
+
+.hello_message{
+    color: purple;
+    font-size: 30px;
+    font-weight: normal;
 }
