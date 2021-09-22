@@ -2,9 +2,9 @@ body {
     font-family: Helvetica;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color:cadetblue;
-<<<<<<< HEAD
+
     background-image: url("among us.jpg");
-=======
+
     text-align: center;
     background-image: url("https://64.media.tumblr.com/6b9f953bb203b322b5eddfb1276c7e52/tumblr_mjpprknFgN1s0v0blo1_1280.jpg");
     text-align: center;
@@ -20,20 +20,18 @@ body {
     width: 50%;
     height: 50%;    
 }
-<<<<<<< HEAD
 .class_time {
     font-size: 18px;
     color: crimson;
-=======
+}
 
 h1 { 
   background-image: url('https://wallpapercave.com/wp/wp2642192.jpg');
->>>>>>> 365ffc3da4942b273141a13b19d62403111ea3a3
 }
+
 #ahmedmustafa{
     color:green;
     font-weight: bolder;
     font-size: medium;
     text-align: center;
->>>>>>> abcdc5fff4acc38395deff879399a6c6f68da61b
 }
