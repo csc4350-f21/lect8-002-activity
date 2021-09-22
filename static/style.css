@@ -2,3 +2,8 @@ body {
     font-family: Helvetica;
     color:cadetblue;
 }
+
+.class_time {
+    font-size: 18px;
+    color: crimson;
+}
