@@ -9,3 +9,7 @@ body {
     width: 50%;
     height: 50%;    
 }
+.class_time {
+    font-size: 18px;
+    color: crimson;
+}
