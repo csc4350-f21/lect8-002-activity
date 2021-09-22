@@ -9,6 +9,7 @@ body {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 .neon-text {
         color: #fff;
       text-shadow:
@@ -22,6 +23,13 @@ body {
         0 0 151px #0fa;
     }
 =======
+=======
+.hello_message{
+    color: purple;
+    font-size: 30px;
+    font-weight: normal;
+}
+>>>>>>> 1d697a0e93d7a4b6f3e7d253c949fa469a4993f2
 .tonysclass {
     width: 50%;
     height: 50%;    
@@ -33,4 +41,13 @@ body {
 h1 { 
   background-image: url('https://wallpapercave.com/wp/wp2642192.jpg');
 }
+<<<<<<< HEAD
 >>>>>>> 365ffc3da4942b273141a13b19d62403111ea3a3
+=======
+#ahmedmustafa{
+    color:green;
+    font-weight: bolder;
+    font-size: medium;
+    text-align: center;
+}
+>>>>>>> 1d697a0e93d7a4b6f3e7d253c949fa469a4993f2
