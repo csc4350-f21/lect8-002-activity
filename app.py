@@ -8,8 +8,10 @@ app.config["SEND_FILE_MAX_AGE_DEFAULT"] = 0
 def index():
     return render_template("index.html")
 
-app.run(
-    port=int(os.getenv("PORT", "8080")),
-    host=os.getenv("IP", "0.0.0.0")
-)
+app.run()
+
+# app.run(
+#     port=int(os.getenv("PORT", "8080")),
+#     host=os.getenv("IP", "0.0.0.0")
+# )
 
