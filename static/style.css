@@ -1,8 +1,11 @@
 body {
-    font-family: Helvetica;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color:cadetblue;
+    text-align: center;
+    background-image: url("https://64.media.tumblr.com/6b9f953bb203b322b5eddfb1276c7e52/tumblr_mjpprknFgN1s0v0blo1_1280.jpg");
 }
 
+<<<<<<< HEAD
 .neon-text {
         color: #fff;
       text-shadow:
@@ -15,3 +18,9 @@ body {
         0 0 102px #0fa,
         0 0 151px #0fa;
     }
+=======
+.tonysclass {
+    width: 50%;
+    height: 50%;    
+}
+>>>>>>> ea2ae57351b92b5170a415cf1402586439a7c5ac
